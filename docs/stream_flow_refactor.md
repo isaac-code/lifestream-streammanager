@@ -9,9 +9,10 @@ We then start setting up the stream and then send the link
 ```mermaid
 sequenceDiagram
 
-    participant CL-FR as Client - Frontend
-    participant CL-BK as Client - Backend
-    participant NA as Node App
+    participant CL as User Landing Page
+    participant LS as LifeStream Service
+    participant N
+    participant SR as LiquidSoap Script Runner
     participant LQ as LiquidSoap(LQ)
     participant MG as MongoDB
     participant SL as Slack
