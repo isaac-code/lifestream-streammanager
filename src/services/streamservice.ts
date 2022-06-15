@@ -9,6 +9,7 @@ export class StreamService extends BaseService {
         //get channel by pretty link
         //
 
+
     }
 
 }
