@@ -1,3 +1,10 @@
+when we request we create a stream record
+
+
+
+
+
+
 when we request for content by pretty name, we search if the channel with this pretty name exist
 if it does and stream is available we just send the streamLink
 if it does and the stream is not available we start setting up the stream and send the link
